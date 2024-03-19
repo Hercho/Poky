@@ -1,9 +1,5 @@
 # Poky
 
-## Requirements
-
-- Docker
-
 ## Steps to build
 
 ```sh
